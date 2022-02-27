@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>bg.png</file>
+    <file>bg1.jpg</file>
+    <file>hello_html_65f450f.png</file>
+    <file>list1.png</file>
+    <file>list.png</file>
+    <file>list1.png</file>
+    <file>mashinka.png</file>
+    <file>png-transparent-typewriter-illustration-illustration-retro-printer-electronics-monochrome-retro-pattern.png</file>
+  </qresource>
+</RCC>
